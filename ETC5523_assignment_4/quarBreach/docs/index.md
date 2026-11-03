@@ -1,5 +1,8 @@
 # quarBreach
 
+[![pkgdown
+site](https://img.shields.io/badge/docs-pkgdown-blue)](https://etc5523-2026.github.io/etc5523-assignment-4-urvijoshi18/)
+
 An R package for exploring COVID-19 quarantine breach risk based on
 Zachreson et al. (2022).
 
@@ -24,7 +27,7 @@ Source: Zachreson et al. (2022) *Science Advances* 8(14): eabm3624.
 ``` r
 
 devtools::install_github("ETC5523-2026/etc5523-assignment-4-urvijoshi18",
-                         subdir = "quarBreach")
+                         subdir = "ETC5523_assignment_4/quarBreach")
 ```
 
 ## Launch the app

@@ -1,7 +1,8 @@
 # Summarise quarantine breach risk scenarios
 
-Filters [`breach_scenarios`](breach_scenarios.md) to a given R0 value
-and adds a plain-language interpretation column.
+Filters
+[`breach_scenarios`](https://etc5523-2026.github.io/etc5523-assignment-4-urvijoshi18/reference/breach_scenarios.md)
+to a given R0 value and adds a plain-language interpretation column.
 
 ## Usage
 
