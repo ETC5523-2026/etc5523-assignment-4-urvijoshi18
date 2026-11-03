@@ -1,0 +1,20 @@
+url: https://etc5523-2026.github.io/etc5523-assignment-4-urvijoshi18/
+template:
+  bootstrap: 5
+navbar:
+  structure:
+    left:
+    - intro
+    - reference
+    - articles
+    right: github
+reference:
+- title: Launch the app
+  contents: launch_app
+- title: Summary functions
+  contents: summarise_breach_risk
+- title: Data
+  contents:
+  - breach_scenarios
+  - outbreak_timing
+
