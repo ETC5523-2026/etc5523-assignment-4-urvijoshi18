@@ -1,0 +1,5 @@
+scenario,r0,efficacy_pct,breach_risk_vs_benchmark,label
+Pre-Delta unvaccinated,3,0,1.0,2020 baseline
+Pre-Delta vaccinated,3,90,0.03,Alpha-era vaccinated
+Delta unvaccinated,6,0,3.0,Delta unvaccinated
+Delta vaccinated,6,60,1.0,Delta vaccinated

@@ -1,0 +1,27 @@
+Package: quarBreach
+Title: Explore COVID-19 Quarantine Breach Risk via the Zachreson (2022) Model
+Version: 0.1.0
+Authors@R:
+    person("Urvi", "Joshi", role = c("aut", "cre"),
+           email = "ujoshi@student.monash.edu")
+Description: Provides datasets and an interactive Shiny app for exploring how
+    vaccine efficacy, community vaccination coverage, and the basic reproduction
+    number interact to determine quarantine breach risk and time to a community
+    outbreak. Data are reconstructed from Zachreson et al. (2022)
+    <doi:10.1126/sciadv.abm3624>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.1
+Depends:
+    R (>= 4.1.0)
+Imports:
+    shiny,
+    bslib,
+    ggplot2,
+    dplyr
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+LazyData: true
