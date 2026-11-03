@@ -58,7 +58,7 @@ likely after a breach) across a grid of efficacy x coverage x R0 values.
 
 ## The summary function
 
-[`summarise_breach_risk()`](../reference/summarise_breach_risk.md)
+[`summarise_breach_risk()`](https://etc5523-2026.github.io/etc5523-assignment-4-urvijoshi18/reference/summarise_breach_risk.md)
 filters to a given R0 and adds a plain-language interpretation column:
 
 ``` r
