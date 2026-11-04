@@ -37,3 +37,8 @@ launch_app()
 summarise_breach_risk()
 summarise_breach_risk(r0 = 6)
 ```
+
+## AI Declaration
+
+AI assistance (Claude, Anthropic) was used to help debug code errors 
+and explain concepts during the development of this package.
